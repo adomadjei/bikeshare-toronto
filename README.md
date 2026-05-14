@@ -8,3 +8,4 @@ Impact of this project
 - enhance user satisfaction
 - increase the efficiency of station management
 - For users it eliminates frustration and helps them to plan their trips better
+- <img width="2574" height="1550" alt="image" src="https://github.com/user-attachments/assets/60cdc0cc-440b-43fb-ad69-2ce8b8a49d5f" />
